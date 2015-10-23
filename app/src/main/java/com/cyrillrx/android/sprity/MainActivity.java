@@ -28,14 +28,14 @@ public class MainActivity extends AppCompatActivity {
         final Resources res = getResources();
 
         List<SpriteSheet> sheets = new ArrayList<>();
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_1, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_2, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_3, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_4, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_5, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_6, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_7, 25, 1));
-        sheets.add(new SpriteSheet(res, R.drawable.thumbnail_8, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_1, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_2, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_3, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_4, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_5, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_6, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_7, 25, 1));
+        sheets.add(new SpriteSheet(res, R.drawable.light_8, 25, 1));
 
         mThumbnail.setSpriteSheets(sheets);
         mSeekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {

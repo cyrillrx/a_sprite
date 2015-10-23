@@ -36,7 +36,7 @@ public class SpriteSheet {
 
     private static BitmapFactory.Options getBitmapOptions() {
         final BitmapFactory.Options options = new BitmapFactory.Options();
-        options.inSampleSize = 2;
+//        options.inSampleSize = 2;
         return options;
     }
 
