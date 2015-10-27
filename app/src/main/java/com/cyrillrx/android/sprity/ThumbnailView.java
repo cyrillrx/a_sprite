@@ -9,6 +9,8 @@ import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+import com.cyrillrx.android.sprite.SpriteSheet;
+
 import java.util.List;
 
 /**

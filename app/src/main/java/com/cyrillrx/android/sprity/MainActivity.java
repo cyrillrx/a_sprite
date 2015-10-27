@@ -11,6 +11,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.SeekBar;
 
+import com.cyrillrx.android.sprite.SpriteSheet;
+import com.cyrillrx.android.sprite.UrlSpriteSheet;
 import com.cyrillrx.android.toolbox.logger.LogCat;
 import com.cyrillrx.android.toolbox.logger.Logger;
 import com.cyrillrx.android.toolbox.logger.Severity;

@@ -1,4 +1,4 @@
-package com.cyrillrx.android.sprity;
+package com.cyrillrx.android.sprite;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -11,10 +11,8 @@ import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.ImageLoadingListener;
 
 /**
- * s
- *
  * @author Cyril Leroux
- *         Created on 09/02/14.
+ *         Created on 27/10/15.
  */
 public class UrlSpriteSheet extends SpriteSheet {
 

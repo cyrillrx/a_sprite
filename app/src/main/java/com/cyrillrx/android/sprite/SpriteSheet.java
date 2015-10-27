@@ -1,4 +1,4 @@
-package com.cyrillrx.android.sprity;
+package com.cyrillrx.android.sprite;
 
 import android.content.res.Resources;
 import android.graphics.Bitmap;
@@ -7,8 +7,6 @@ import android.graphics.Canvas;
 import android.graphics.Rect;
 
 /**
- * s
- *
  * @author Cyril Leroux
  *         Created on 09/02/14.
  */
